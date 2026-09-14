@@ -20,6 +20,10 @@ h1 {
     color: var(--main-color);
 }
 
+.carTitle {
+    font-family: "Roboto Slab", serif;
+}
+
 h2 {
     text-decoration: underline;
 }
@@ -43,8 +47,4 @@ tbody tr:nth-child(odd) {
 
 tbody tr:nth-child(even) {
     background-color: lightgray;
-}
-
-.carText {
-    font-family: "Roboto Slab", serif;
 }

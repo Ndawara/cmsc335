@@ -23,7 +23,7 @@
 
     <li>
         <strong>Render Location: </strong>
-        <a href="https://YOUR-RENDER-SITE.onrender.com/">Render Static Site</a>
+        <a href="#">Render Static Site</a>
     </li>
 </ul>
 
@@ -32,7 +32,7 @@
 <h2>Actual Page</h2>
 <hr>
 
-<h1>Dodge Charger</h1>
+<h1 class="carTitle">Dodge Charger</h1>
 
 <p>
 The Dodge Charger is one of my favorite cars. I like its design,
@@ -80,10 +80,6 @@ power, and muscle car sound.
 
 <p>
 <a href="https://www.youtube.com/watch?v=uGAZkn11hcw">Dodge Charger Video</a>
-</p>
-
-<p class="carText">
-My favorite muscle car.
 </p>
 
 </div>
