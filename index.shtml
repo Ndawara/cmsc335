@@ -7,7 +7,6 @@
     <title>Dodge Charger</title>
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="favicon.ico">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet">
 </head>
 
 <body>
@@ -19,12 +18,14 @@
 <h2>Render Info</h2>
 
 <ul>
-    <li><strong>Name: </strong>Evan Noungon Nguebou</li>
+<li><strong>Name: </strong>Evan Noungon Nguebou</li>
 
-    <li>
-        <strong>Render Location: </strong>
-        <a href="https://cmsc335-final-cckh.onrender.com">Render Static Site</a>
-    </li>
+<li>
+<strong>Render Location: </strong>
+<a href="https://cmsc335-final-cckh.onrender.com">
+Render Static Site
+</a>
+</li>
 </ul>
 
 <strong>Last Modified: </strong><!--#echo var="LAST_MODIFIED" --><br>
@@ -32,7 +33,7 @@
 <h2>Actual Page</h2>
 <hr>
 
-<h1 class="carTitle">Dodge Charger</h1>
+<h1>Dodge Charger</h1>
 
 <p>
 The Dodge Charger is one of my favorite cars. I like its design,
@@ -44,34 +45,36 @@ power, and muscle car sound.
 
 <table>
 
-    <thead>
-        <tr>
-            <th>Feature</th>
-            <th>Reason</th>
-        </tr>
-    </thead>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Reason</th>
+</tr>
+</thead>
 
-    <tbody>
-        <tr>
-            <td>Design</td>
-            <td>It looks aggressive</td>
-        </tr>
+<tbody>
 
-        <tr>
-            <td>Power</td>
-            <td>It has strong performance</td>
-        </tr>
+<tr>
+<td>Design</td>
+<td>It looks aggressive</td>
+</tr>
 
-        <tr>
-            <td>Sound</td>
-            <td>I like the muscle car sound</td>
-        </tr>
+<tr>
+<td>Power</td>
+<td>It has strong performance</td>
+</tr>
 
-        <tr>
-            <td>Space</td>
-            <td>It has four doors</td>
-        </tr>
-    </tbody>
+<tr>
+<td>Sound</td>
+<td>I like the muscle car sound</td>
+</tr>
+
+<tr>
+<td>Space</td>
+<td>It has four doors</td>
+</tr>
+
+</tbody>
 
 </table>
 
@@ -79,7 +82,9 @@ power, and muscle car sound.
 <hr>
 
 <p>
-<a href="https://www.youtube.com/watch?v=uGAZkn11hcw">Dodge Charger Video</a>
+<a href="https://www.youtube.com/watch?v=uGAZkn11hcw">
+Dodge Charger Video
+</a>
 </p>
 
 </div>
