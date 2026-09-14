@@ -37,6 +37,10 @@ th {
     color: var(--main-color);
 }
 
+tbody tr:nth-child(odd) {
+    background-color: white;
+}
+
 tbody tr:nth-child(even) {
     background-color: lightgray;
 }
