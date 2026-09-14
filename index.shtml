@@ -5,73 +5,75 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dodge Charger</title>
+
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="favicon.ico">
+    <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap" rel="stylesheet">
 </head>
 
 <body>
 
-<div class="content">
+<div class="page">
 
 <h1>Terpconnect Static Site</h1>
 
 <h2>Render Info</h2>
 
 <ul>
-<li><strong>Name: </strong>Evan Noungon Nguebou</li>
+    <li><strong>Name: </strong>Evan Noungon Nguebou</li>
 
-<li>
-<strong>Render Location: </strong>
-<a href="https://cmsc335-final-cckh.onrender.com">
-Render Static Site
-</a>
-</li>
+    <li>
+        <strong>Render Location: </strong>
+        <a href="https://cmsc-335final1.onrender.com/">
+        https://cmsc-335final1.onrender.com/
+        </a>
+    </li>
 </ul>
 
 <strong>Last Modified: </strong><!--#echo var="LAST_MODIFIED" --><br>
 
 <h2>Actual Page</h2>
-<hr>
 
 <h1>Dodge Charger</h1>
 
 <p>
-The Dodge Charger is one of my favorite cars. I like its design,
-power, and muscle car sound.
+The Dodge Charger is one of my favorite cars.
+I like its design, power, sound, and four doors.
 </p>
 
 <h2>Why I Like It</h2>
-<hr>
 
 <table>
 
 <thead>
+
 <tr>
-<th>Feature</th>
-<th>Reason</th>
+    <th>Feature</th>
+    <th>Why I Like It</th>
 </tr>
+
 </thead>
 
 <tbody>
 
 <tr>
-<td>Design</td>
-<td>It looks aggressive</td>
+    <td>Design</td>
+    <td>It looks aggressive</td>
 </tr>
 
 <tr>
-<td>Power</td>
-<td>It has strong performance</td>
+    <td>Power</td>
+    <td>It has a lot of power</td>
 </tr>
 
 <tr>
-<td>Sound</td>
-<td>I like the muscle car sound</td>
+    <td>Sound</td>
+    <td>I like the muscle car sound</td>
 </tr>
 
 <tr>
-<td>Space</td>
-<td>It has four doors</td>
+    <td>Space</td>
+    <td>It has four doors and good space</td>
 </tr>
 
 </tbody>
@@ -79,11 +81,10 @@ power, and muscle car sound.
 </table>
 
 <h2>Video</h2>
-<hr>
 
 <p>
 <a href="https://www.youtube.com/watch?v=uGAZkn11hcw">
-Dodge Charger Video
+Watch a Dodge Charger Video
 </a>
 </p>
 
